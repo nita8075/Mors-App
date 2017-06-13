@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\TUAN_MUDA\\AndroidStudioProjects\\cobalagi\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\TUAN_MUDA\\.android\\build-cache\\b7ba9bc3a2c814ee0e21efb2ef7653e0c0d9e1b7\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
